@@ -110,6 +110,6 @@ STATICFILES_DIRS = [
 #EMAIL_HOST = smtp.gmail.com
 #EMAIL_PORT = 587
 #EMAIL_HOST_USER = 'corinne.ngandu@gmail.com'
-#EMAIL_HOST_PASSWORD = 'Sagatwa23'
+#EMAIL_HOST_PASSWORD = '*******'
 #var = EMAIL_USE_TLS - True
 # EMAIL_USE_SSL = False
